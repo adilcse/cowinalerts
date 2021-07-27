@@ -1,0 +1,1 @@
+python "C:\Users\adilh\projects\cowinalerts\main.py"
